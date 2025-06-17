@@ -2,7 +2,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 
 import phone from '../assets/phone.jpg';
-
 import Tv from '../assets/Tv.jpg';
 import Watch from '../assets/watch.jpg';
 import HomeImg from '../assets/home.jpg';
@@ -11,7 +10,7 @@ import Laptop from '../assets/laptop.jpg';
 import Works from './Works'; 
 
 
-const Images = [Phone, Tv, Watch, HomeImg, Delivery, Laptop];
+const Images = [phone, Tv, Watch, HomeImg, Delivery, Laptop];
 
 const Home = () => {
   const [index, setIndex] = useState(0);
