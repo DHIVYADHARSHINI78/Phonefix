@@ -8,7 +8,8 @@ import Watch from '../assets/watch.jpg';
 import HomeImg from '../assets/home.jpg';
 import Delivery from '../assets/delivery.jpg';
 import Laptop from '../assets/laptop.jpg';
-import Works from './works';
+import Works from './Works'; 
+
 
 const Images = [Phone, Tv, Watch, HomeImg, Delivery, Laptop];
 
