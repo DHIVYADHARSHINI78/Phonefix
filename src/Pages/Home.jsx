@@ -1,6 +1,8 @@
 
 import React, { useEffect, useRef, useState } from 'react';
-import Phone from '../assets/Phone.jpg';
+
+import phone from '../assets/phone.jpg';
+
 import Tv from '../assets/Tv.jpg';
 import Watch from '../assets/watch.jpg';
 import HomeImg from '../assets/home.jpg';
